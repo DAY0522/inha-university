@@ -1,0 +1,6 @@
+Place에서 element를 불러올 수 있다
+element 클릭하고 R 누르면 rotate 가능
+
+PSpice에서 New Simulation Profile를 클릭해서 이름을 설정한 뒤 Analysis Type을 Bias Point로 바꾸고 OK 선택
+-> 이후 Run을 통해 Simulation
+-> 상단의 V나 I 버튼을 눌러 회로에서의 전압 및 전류를 확인
